@@ -61,7 +61,7 @@ function sincronizzaCompleanniConEta() {
     for (let offset = 0; offset < ANNI_DA_CALCOLARE; offset++) {
       const annoEvento = annoCorrente + offset;
       const eta = annoEvento - bday.year;
-      const titoloEvento = `🎂 ${nome} (${eta} anni)`;
+      const titoloEvento = `🎂 ${nome} (${eta})`;
       
       const dataEvento = new Date(annoEvento, bday.month - 1, bday.day);
       
