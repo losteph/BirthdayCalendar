@@ -2,7 +2,7 @@
 
 Uno script leggero per **Google Apps Script** che legge i compleanni dai tuoi **Contatti Google** (inclusi quelli sincronizzati da dispositivi Samsung/Android) e genera automaticamente gli eventi sul calendario indicando il nome e l'età compiuta:
 
-> Esempio: `🎂 Mario Rossi (30 anni)`
+> Esempio: `🎂 Mario Rossi (30)`
 
 Risolve la mancanza storica di Android, Samsung Calendar e GNOME Calendar (Fedora/Linux), che mostrano solo la ricorrenza senza calcolare l'età (funzione nativa invece su iOS).
 
